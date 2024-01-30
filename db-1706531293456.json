@@ -1,0 +1,54 @@
+{
+  "student": [
+    {
+      "id": 101,
+      "name": "A",
+      "course": "MCA"
+    },
+    {
+      "id": 102,
+      "name": "B",
+      "course": "MCA"
+    },
+    {
+      "id": 103,
+      "name": "C",
+      "course": "MCA"
+    },
+    {
+      "id": 104,
+      "name": "D",
+      "course": "MCA"
+    },
+    {
+      "id": 105,
+      "name": "E",
+      "course": "MCA"
+    },
+    {
+      "name": "Khsushboo",
+      "course": "MCA",
+      "id": 106
+    },
+    {
+      "name": "Myank",
+      "course": "MBA",
+      "id": 107
+    },
+    {
+      "name": "hvh",
+      "course": "gsgr",
+      "id": 108
+    },
+    {
+      "name": "hfkufd",
+      "course": "fddk",
+      "id": 109
+    },
+    {
+      "name": "khusboo",
+      "course": "mba",
+      "id": 110
+    }
+  ]
+}
